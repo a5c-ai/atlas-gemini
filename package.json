@@ -1,6 +1,6 @@
 {
   "name": "@a5c-ai/atlas-gemini-cli",
-  "version": "6.0.1-staging.adbec7d181ae",
+  "version": "6.0.1-staging.6e8c63e09c3b",
   "description": "Turn a stated need into a full system design by mining the Atlas knowledge graph.",
   "scripts": {
     "deploy": "npm publish --access public",
@@ -33,7 +33,7 @@
     "access": "public"
   },
   "dependencies": {
-    "@a5c-ai/babysitter-sdk": "6.0.1-staging.adbec7d181ae"
+    "@a5c-ai/babysitter-sdk": "6.0.1-staging.6e8c63e09c3b"
   },
   "repository": {
     "type": "git",
