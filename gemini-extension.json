@@ -1,6 +1,6 @@
 {
   "name": "atlas",
-  "version": "6.0.3-staging.cc429f39a3c5",
+  "version": "6.0.3-staging.4b5d366a78a4",
   "description": "Turn a stated need into a full system design by mining the Atlas knowledge graph.",
   "contextFileName": "GEMINI.md",
   "settings": [],
